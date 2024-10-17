@@ -2,6 +2,10 @@
 
 This is a simple and elegant TO-DO list application built using HTML5, CSS3, and JavaScript. It allows users to add tasks, mark them as completed, and remove them. The data is stored in the browser's `localStorage`, so the list persists even after refreshing the page.
 
+## Preview
+
+![Screenshot](screenshot.png)
+
 ## Features:
 - **Add Task**: Users can add a task by typing in the input box and clicking the "Add" button.
 - **Mark as Completed**: Users can click on a task to mark it as completed (strikethrough effect).
